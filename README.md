@@ -1,6 +1,6 @@
 Olá! Eu sou o Bruno Martins 😀😀
 
-- 🌎 Arapongas-Pr
+- 🌎 Maringá-Pr
 - 👩‍💻 Python, SpringBoot, Angular
 - 👨‍🎓 Analise e Desenvolvimento De Sistemas
 - 💻📙 Estudando SpringBoot e Angular
